@@ -188,6 +188,4 @@ def create_spend_chart(categories: list[Category]) -> str:
 
         i += 1
 
-    print(result)
-
     return result
